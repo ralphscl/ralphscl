@@ -4,7 +4,7 @@ Hello there! 👋 <br>I'm Ralph, and I'm fueled by an insatiable hunger for know
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ralphscl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rlphspncrl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ralphscl) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ralphlacs) 
 
-<div align="center">>
+<div align="center">
   # 💻 Tech Stack:
   
   ## Language:

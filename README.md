@@ -27,7 +27,8 @@ Hello there! 👋 <br>I'm Ralph, and I'm fueled by an insatiable hunger for know
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   
   ## Database
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firestore](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firestore](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) <br>
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   
   ## Hosting/SaaS
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Pantheon' src='https://img.shields.io/badge/Pantheon-100000?style=for-the-badge&logo=Pantheon&logoColor=white&labelColor=black&color=black'/></a> 
